@@ -1,0 +1,26 @@
+{
+  "name": "institute-management-node",
+  "version": "1.0.0",
+  "description": "Institute Management Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilvaibhav11/Institute-Management-node.git"
+  },
+  "author": "vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patilvaibhav11/Institute-Management-node/issues"
+  },
+  "homepage": "https://github.com/patilvaibhav11/Institute-Management-node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "utils": "^0.3.1"
+  }
+}
